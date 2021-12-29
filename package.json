@@ -7,7 +7,8 @@
     "build": "remix build",
     "dev": "remix dev",
     "postinstall": "remix setup node",
-    "start": "remix-serve build"
+    "start": "remix-serve build",
+    "typecheck": "tsc"
   },
   "dependencies": {
     "@remix-run/react": "^1.1.1",
@@ -15,7 +16,8 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "remix": "^1.1.1",
-    "remix-validated-form": "^2.1.1"
+    "remix-validated-form": "^2.1.1",
+    "zod": "^3.11.6"
   },
   "devDependencies": {
     "@remix-run/dev": "^1.1.1",
