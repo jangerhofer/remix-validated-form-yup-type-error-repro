@@ -1,3 +1,5 @@
+**Fixed by https://github.com/airjp73/remix-validated-form/pull/14!**
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
